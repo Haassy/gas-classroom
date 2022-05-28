@@ -1,2 +1,2 @@
 # gas-classroom
-Google Classroom API for OOP
+Google Classroom API 関係をクラス化してみました。
