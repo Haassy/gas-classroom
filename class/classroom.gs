@@ -1,5 +1,3 @@
-function testClass() {
-
   /**
    * Google Classroomの情報を持つクラス
    * @class
@@ -52,7 +50,3 @@ function testClass() {
       return coursesList;
     }
   }
-
-  const courses = new Courses();
-  console.log(courses.getAllCoursesList().courses.length);
-}
